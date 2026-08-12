@@ -16,3 +16,7 @@ I work on applied machine learning and data science, spanning recommender system
 | [ashrae_competition](https://github.com/a-sharma06/ashrae_competition) | Deep learning (LSTM, CNN-1D) time series forecasting of building energy consumption at scale for the ASHRAE Kaggle competition, using distributed computing (Dask) across 1,000+ buildings |
 | [Spatial-Wind-Power-Forecasting](https://github.com/a-sharma06/Spatial-Wind-Power-Forecasting) | Spatiotemporal forecasting of wind power output using ARIMA modeling |
 | [ai4doc](https://github.com/a-sharma06/ai4doc) | Automated document layout detection and OCR pipeline for financial regulatory analysis |
+
+## Skills
+
+Python, R, SQL, PyTorch/scikit-learn, causal inference & experiment design, time series forecasting, recommender systems, NLP/LLMs
